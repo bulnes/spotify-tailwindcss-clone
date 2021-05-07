@@ -4344,11 +4344,11 @@ video {
 }
 
 .bg-spotify-theme {
-  background-image: url('images/bursts.svg');
+  background-image: url('../images/bursts.svg');
 }
 
 .bg-spotify-theme-mobile {
-  background-image: url('images/bursts-mobile.svg');
+  background-image: url('../images/bursts-mobile.svg');
 }
 
 .from-transparent {
@@ -35773,11 +35773,11 @@ video {
   }
 
   .sm\:bg-spotify-theme {
-    background-image: url('images/bursts.svg');
+    background-image: url('../images/bursts.svg');
   }
 
   .sm\:bg-spotify-theme-mobile {
-    background-image: url('images/bursts-mobile.svg');
+    background-image: url('../images/bursts-mobile.svg');
   }
 
   .sm\:from-transparent {
@@ -67124,11 +67124,11 @@ video {
   }
 
   .md\:bg-spotify-theme {
-    background-image: url('images/bursts.svg');
+    background-image: url('../images/bursts.svg');
   }
 
   .md\:bg-spotify-theme-mobile {
-    background-image: url('images/bursts-mobile.svg');
+    background-image: url('../images/bursts-mobile.svg');
   }
 
   .md\:from-transparent {
@@ -98475,11 +98475,11 @@ video {
   }
 
   .lg\:bg-spotify-theme {
-    background-image: url('images/bursts.svg');
+    background-image: url('../images/bursts.svg');
   }
 
   .lg\:bg-spotify-theme-mobile {
-    background-image: url('images/bursts-mobile.svg');
+    background-image: url('../images/bursts-mobile.svg');
   }
 
   .lg\:from-transparent {
@@ -129826,11 +129826,11 @@ video {
   }
 
   .xl\:bg-spotify-theme {
-    background-image: url('images/bursts.svg');
+    background-image: url('../images/bursts.svg');
   }
 
   .xl\:bg-spotify-theme-mobile {
-    background-image: url('images/bursts-mobile.svg');
+    background-image: url('../images/bursts-mobile.svg');
   }
 
   .xl\:from-transparent {
@@ -161177,11 +161177,11 @@ video {
   }
 
   .\32xl\:bg-spotify-theme {
-    background-image: url('images/bursts.svg');
+    background-image: url('../images/bursts.svg');
   }
 
   .\32xl\:bg-spotify-theme-mobile {
-    background-image: url('images/bursts-mobile.svg');
+    background-image: url('../images/bursts-mobile.svg');
   }
 
   .\32xl\:from-transparent {
