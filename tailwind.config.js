@@ -2,9 +2,6 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
-  },
-  variants: {
     extend: {
       spacing: {
         '14': '3.5rem',
@@ -32,5 +29,6 @@ module.exports = {
       },
     },
   },
+  variants: {},
   plugins: [],
 }
